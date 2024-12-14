@@ -1,3 +1,6 @@
+# Welcome to My Profile!
+
+![Studio Ghibli GIF](https://media.giphy.com/media/ZYZEFjLzOV3fq/giphy.gif)
 - 👋 Hi, I’m @ddalki1205
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming
