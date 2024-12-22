@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/ZYZEFjLzOV3fq/giphy.gif" alt="Studio Ghibli" width="500">
 </p>
 <p align="center">
-  iya@ddalki1205
+  anndrea@ddalki1205
 </p>
 <p align="center">
   Bachelor of Science in Computer Science
