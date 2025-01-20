@@ -4,9 +4,7 @@
 <p align="center">
   iya@ddalki1205
 </p>
-<p align="center">
-  Bachelor of Science in Computer Science
-</p>
+
 <p align="center">
   Python, PHP, MySQL, Apache
 </p>
