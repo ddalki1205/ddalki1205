@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  UI/UX Design
   Python, PHP, MySQL, Apache
 </p>
 <!---
